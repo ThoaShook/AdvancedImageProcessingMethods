@@ -26,11 +26,3 @@ This repository is a comprehensive selection of sections in Jupyter notebook dem
 ## Usage
 
 The notebook in this repository is self-contained and includes comments to guide you through the processes described. You can run the notebook in an environment that supports Jupyter, such as Anaconda or directly through JupyterLab.
-
-## Contributing
-
-Contributions to improve the notebooks or add new techniques are welcome. Please feel free to fork this repository and submit pull requests with your enhancements. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
