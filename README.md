@@ -1,6 +1,6 @@
 # Image Processing Techniques
 
- ![Usain_Bolt]('Usain_Bolt.png')
+ ![Usain_Bolt](Usain_Bolt.png)
 * Image Source: [Wikipedia](https://en.wikipedia.org/wiki/Usain_Bolt)
 <br>
 This repository is a comprehensive selection of sections in Jupyter notebook demonstrating various image processing techniques. Each section is designed to offer practical insights into different methods, making it suitable for educational purposes and real-world applications alike.
