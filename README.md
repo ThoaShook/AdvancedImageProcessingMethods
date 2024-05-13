@@ -1,4 +1,4 @@
-# Image Processing Techniques
+# Advanced Image Processing Techniques
 
  ![Usain_Bolt](Usain_Bolt.png)
 * Image Source: [Wikipedia](https://en.wikipedia.org/wiki/Usain_Bolt)
